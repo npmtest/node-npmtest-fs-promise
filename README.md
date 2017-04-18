@@ -1,7 +1,10 @@
-# test coverage for  [fs-promise (v2.0.2)](https://github.com/kevinbeaty/fs-promise#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fs-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fs-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fs-promise.svg)](https://travis-ci.org/npmtest/node-npmtest-fs-promise)
+# npmtest-fs-promise
+
+#### test coverage for  [fs-promise (v2.0.2)](https://github.com/kevinbeaty/fs-promise#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-fs-promise.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fs-promise) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fs-promise.svg)](https://travis-ci.org/npmtest/node-npmtest-fs-promise)
+
 #### Filesystem methods as promises with fs-extra
 
-[![NPM](https://nodei.co/npm/fs-promise.png?downloads=true)](https://www.npmjs.com/package/fs-promise)
+[![NPM](https://nodei.co/npm/fs-promise.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/fs-promise)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-fs-promise/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-fs-promise/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-fs-promise/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fs-promise/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fs-promise/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-fs-promise/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-fs-promise/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-fs-promise/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-fs-promise/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-fs-promise/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-fs-promise%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-fs-promise/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-fs-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-fs-promise/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-fs-promise/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-fs-promise%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-fs-promise/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-fs-promise/build/test-report.html](https://npmtest.github.io/node-npmtest-fs-promise/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-fs-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-fs-promise/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-fs-promise/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-fs-promise/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-fs-promise/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-fs-promise/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-fs-promise/build/screenCapture.npmPackageListing.svg)
 
@@ -66,13 +75,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "kevinbeaty",
-            "email": "kevin@simplectic.com"
+            "name": "kevinbeaty"
         }
     ],
     "name": "fs-promise",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kevinbeaty/fs-promise.git"
